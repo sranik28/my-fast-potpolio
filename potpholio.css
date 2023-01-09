@@ -140,8 +140,11 @@ font-size: 35px;
     font-size:30px;
 }
 /*resume style*/
-.resume-content{
+.resume-options{
     display: flex;
+}
+.resume-content{
+    width: 50%;
 }
 .resume.title{
 font-weight:700 ;
