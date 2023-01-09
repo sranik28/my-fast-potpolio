@@ -140,3 +140,19 @@ font-size: 35px;
     font-size:30px;
 }
 /*resume style*/
+.resume-content{
+    display: flex;
+}
+.resume.title{
+font-weight:700 ;
+font-size:25px ;
+color: #474747;
+}
+.resume.sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+}
+.resume.description{
+    color: #757575;
+}
