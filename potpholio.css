@@ -4,7 +4,7 @@
 /*header and nev style*/
 .header{
     background-color: #fff8ff;
-    background-image: url(../images/header_bg.png),url(../images/developer.png);
+    background-image: url(images/header_bg.png),url(images/developer.png);
     background-repeat: no-repeat;
     background-position: right bottom,left;
 }
